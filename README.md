@@ -25,19 +25,23 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="1280" height="1103" alt="WhatsApp Image 2026-05-28 at 9 52 40 PM" src="https://github.com/user-attachments/assets/e880ba15-4953-464b-803c-67a28c09cd5d" />
 
 
 **To measure RTh or RN**
 
+<img width="1280" height="1065" alt="WhatsApp Image 2026-05-28 at 9 52 25 PM" src="https://github.com/user-attachments/assets/a0eb19ba-2f51-42d2-8dab-d11ea7d8798f" />
 
 
 **To measure IN or Isc**
+<img width="1280" height="677" alt="WhatsApp Image 2026-05-28 at 9 52 25 PM (1)" src="https://github.com/user-attachments/assets/ed3210a7-3014-4074-84e2-3990047b37d5" />
 
  
 **Thevenin’s equivalent circuit**
-
+<img width="1280" height="656" alt="WhatsApp Image 2026-05-28 at 9 52 25 PM (2)" src="https://github.com/user-attachments/assets/ba67caad-f71a-48cc-b748-db9267b1a546" />
 
 **Norton’s equivalent circuit**
+<img width="1280" height="966" alt="WhatsApp Image 2026-05-28 at 9 52 26 PM" src="https://github.com/user-attachments/assets/cf11b910-f0e8-4545-b88a-c47d21e9f425" />
 
 
 **PROCEDURE:**
@@ -73,20 +77,23 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **TABULAR COLUMN: 1**
 To measure I L
 
-Vi (volts)	IL (amps)
+<img width="1290" height="455" alt="image" src="https://github.com/user-attachments/assets/4f9fa558-2b75-404f-99fc-0b6bbf0553f2" />
+
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
-Vi (volts)	RTh (Ω)
+<img width="1330" height="552" alt="image" src="https://github.com/user-attachments/assets/07495486-eae9-4b1d-9663-347465fc738f" />
+
 
 
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
 
-Vi (volts)	IN (amps)
+<img width="1396" height="534" alt="image" src="https://github.com/user-attachments/assets/36681914-1546-4986-9c47-3ea69ddda178" />
+
 	
 **MODEL CALCULATION:**
 
@@ -98,8 +105,12 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+<img width="565" height="679" alt="image" src="https://github.com/user-attachments/assets/9fcbd6d5-8a51-4f60-80db-3c3658e0fdc0" />
 
+<img width="868" height="671" alt="image" src="https://github.com/user-attachments/assets/6edda1f4-9ae7-4dd9-b245-c8b318e044f5" />
+
+<img width="391" height="472" alt="image" src="https://github.com/user-attachments/assets/1e47b749-eee0-4b9e-b6db-4337f4412aca" />
 
 **RESULT:**
 
-Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+Thus  Norton’s theorem is verified practically and theoretically.
